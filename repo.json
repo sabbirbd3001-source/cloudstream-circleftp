@@ -1,0 +1,8 @@
+{
+    "name": "Circle FTP (Sabbir)",
+    "description": "Circle FTP Provider for CloudStream 3 by Sabbir",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/sabbirbd3001-source/cloudstream-circleftp/builds/plugins.json"
+    ]
+}

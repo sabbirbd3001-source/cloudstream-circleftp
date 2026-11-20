@@ -1,0 +1,23 @@
+[
+    {
+        "iconUrl": "http://new.circleftp.net/favicon.ico",
+        "fileHash": "sha256-fe4784b8d720c7a4b4c333fe80ab969f12e3cdaf6821f1f03fb5c2a7a1325649",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/sabbirbd3001-source/cloudstream-circleftp",
+        "fileSize": 12883,
+        "status": 1,
+        "language": "bn",
+        "authors": [
+            "sabbirbd3001"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "CircleFTP",
+        "description": "Circle FTP provider for CloudStream 3 - Stream BD BDIX FTP Movies & TV Series directly",
+        "url": "https://raw.githubusercontent.com/sabbirbd3001-source/cloudstream-circleftp/builds/CircleFTP.cs3",
+        "name": "CircleFTP"
+    }
+]
